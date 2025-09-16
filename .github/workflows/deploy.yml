@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.omaekl8.mongodb.net
       MONGODB_USERNAME: ritujane78
-      MONGODB_PASSWORD: R1i2u3t41@#123
+      MONGODB_PASSWORD: R1i2u3t41%40%23123
       PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
